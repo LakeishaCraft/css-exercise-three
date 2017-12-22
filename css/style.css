@@ -5,6 +5,8 @@ body {
 }
 
 .container {
+  box-sizing:border-box;
+  width:50%;
   margin: 0 auto;
   width: 420px;
 }
