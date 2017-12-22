@@ -1,0 +1,24 @@
+body {
+  background-color: #320;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+.border-box {
+  box-sizing:border-box;
+  width: 50%;
+  margin: 0 auto;
+  width: 420px;
+}
+
+nav {
+  margin: 0 auto;
+  padding: 10px 0 15px 15px;
+  position: fixed;
+  width: 420px;
+}
+
+.restaurant-list {
+  padding-top: 50px;
+  width: 100%;
+}
